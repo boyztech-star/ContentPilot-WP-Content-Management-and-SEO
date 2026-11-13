@@ -1,0 +1,51 @@
+ContentPilot Personal Use License
+Version 1.0
+
+Copyright (c) 2026 [Your Name]. All rights reserved except as granted below.
+
+1. DEFINITIONS
+"Software" means the ContentPilot WordPress plugin, including all PHP, JavaScript,
+CSS and documentation files in this package.
+"Personal Use" means use on a website you own for non-commercial, hobby or
+personal purposes, with no business purpose, no client work and no paid services
+sold through or because of that website.
+
+2. GRANT OF LICENSE
+You may, free of charge:
+  a) install and use the Software for Personal Use;
+  b) read, study and modify the Software for your own Personal Use;
+  c) share an UNMODIFIED copy of the Software with others, free of charge, as long
+     as this license file and all copyright notices stay intact.
+
+3. RESTRICTIONS
+You may NOT:
+  a) use the Software, or any modified version of it, for commercial purposes,
+     including business websites, client websites, or any site operated to earn
+     money for a company or organization;
+  b) sell, rent, lease, sublicense or charge for the Software or any modified
+     version of it, or bundle it into a paid product, theme or service;
+  c) distribute modified versions of the Software to others;
+  d) remove or change the copyright notice, this license, or the donation
+     information in the Software.
+
+4. COMMERCIAL LICENSING
+If you want to use the Software commercially, contact the copyright holder to ask
+for separate written permission.
+
+5. DONATIONS
+The Software is free. Donations are optional and do not change the terms of this
+license.
+
+6. OWNERSHIP
+The Software is licensed, not sold. The copyright holder keeps all rights not
+expressly granted here.
+
+7. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+8. TERMINATION
+This license ends automatically if you break any of its terms. When it ends, you
+must stop using the Software and delete your copies.
